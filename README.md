@@ -1,1 +1,1 @@
-This project simulates an electric vehicle battery using MATLAB Simulink, analyzing its performance and efficiency for optimal energy management.
+This MATLAB Simulink model simulates the dynamics of an **electric vehicle (EV)**, incorporating **battery management, motor control, and driving cycle analysis**. The model evaluates performance metrics like **state of charge (SOC), velocity tracking, and energy consumption**.  
